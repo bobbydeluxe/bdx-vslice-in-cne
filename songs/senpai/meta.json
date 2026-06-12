@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "senpai",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"customValues": {
+		"ratings": {
+			"easy": 1,
+			"hard": 3,
+			"normal": 2
+		},
+		"previewStart": 0,
+		"album": "volume2",
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH",
+		"previewEnd": 15000
+	},
+	"displayName": "Senpai",
+	"bpm": 144
+}

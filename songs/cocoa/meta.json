@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "parents-christmas",
+	"color": "#A0D1FF",
+	"coopAllowed": true,
+	"customValues": {
+		"ratings": {
+			"easy": 1,
+			"hard": 2,
+			"normal": 2
+		},
+		"previewStart": 0,
+		"album": "volume1",
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH",
+		"previewEnd": 15000
+	},
+	"displayName": "Cocoa",
+	"bpm": 100
+}

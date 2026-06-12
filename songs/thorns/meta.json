@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "spirit",
+	"color": "#FF78BF",
+	"coopAllowed": true,
+	"customValues": {
+		"ratings": {
+			"easy": 2,
+			"hard": 4,
+			"normal": 3
+		},
+		"previewStart": 0,
+		"album": "volume2",
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH",
+		"previewEnd": 15000
+	},
+	"displayName": "Thorns",
+	"bpm": 190
+}

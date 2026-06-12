@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "mom",
+	"color": "#FC96D7",
+	"coopAllowed": true,
+	"customValues": {
+		"ratings": {
+			"easy": 1,
+			"hard": 2,
+			"normal": 2
+		},
+		"previewStart": 0,
+		"album": "volume1",
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH + Spazkid",
+		"previewEnd": 15000
+	},
+	"displayName": "Satin Panties",
+	"bpm": 110
+}

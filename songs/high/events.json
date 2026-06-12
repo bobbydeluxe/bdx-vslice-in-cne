@@ -1,0 +1,95 @@
+{
+	"events": [
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 0
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 3840
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 11520
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 19200
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 26880
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 34560
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 42240
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 49920
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 57600
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 65280
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 72960
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 90240
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 92160
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "tankman",
+	"color": "#F6B604",
+	"coopAllowed": true,
+	"customValues": {
+		"ratings": {
+			"easy": 3,
+			"hard": 5,
+			"normal": 4
+		},
+		"previewStart": 0,
+		"album": "volume2",
+		"artist": "Kawai Sprite",
+		"charter": "MtH",
+		"previewEnd": 15000
+	},
+	"displayName": "Guns",
+	"bpm": 185
+}
