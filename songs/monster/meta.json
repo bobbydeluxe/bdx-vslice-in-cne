@@ -1,0 +1,28 @@
+{
+	"customValues": {
+		"ratings": {
+			"easy": 1,
+			"normal": 2,
+			"hard": 2
+		},
+		"previewStart": 0,
+		"charter": "ChaoticGamerCG + MtH + Spazkid",
+		"previewEnd": 15000,
+		"artist": "Bassetfilms",
+		"album": "volume2"
+	},
+	"color": "#223344",
+	"opponentModeAllowed": true,
+	"icon": "monster",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Monster",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 95
+}
