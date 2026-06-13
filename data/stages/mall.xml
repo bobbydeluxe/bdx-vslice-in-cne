@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="mall" folder="stages/mall/" startCamPosY="450" startCamPosX="500">
+	<sprite name="bg" x="-826" y="-666" sprite="bgWalls" scale="0.9" scroll="0.2"/>
+	<high-memory>
+		<sprite name="upperBoppers" x="-564" y="-128" sprite="upperBop" scale="0.85" scroll="0.28" type="onbeat" beatInterval="1"/>
+	</high-memory>
+	<sprite name="bgEscalator" x="-1100" y="-540" sprite="bgEscalator" scroll="0.3" scale="0.9" updateHitbox="true"/>
+	<sprite name="tree" x="370" y="-250" sprite="christmasTree" scroll="0.4"/>
+	<sprite name="bottomBoppers" x="-410" y="100" sprite="bottomBop" scroll="0.9" type="onbeat" beatInterval="1"/>
+	<sprite name="fgSnow" x="-1350" y="680" sprite="fgSnow" scalex="1.1"/>
+
+	<girlfriend x="540" y="110" scroll="1"/>
+	<dad/>
+	<boyfriend x="1030" camyoffset="-150" camxoffset="-150"/>
+
+	<high-memory>
+		<sprite name="santa" x="-840" y="150" sprite="santa" type="onbeat" beatInterval="1"/>
+	</high-memory>
+</stage>
