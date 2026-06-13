@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "darnell",
+	"coopAllowed": true,
+	"name": "2hot",
+	"color": -10394881,
+	"stepsPerBeat": 4,
+	"displayName": "2hot",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 182,
+	"customValues": {
+		"stickerPack": "bonus-weekend1",
+		"album": "volume4"
+	}
+}
